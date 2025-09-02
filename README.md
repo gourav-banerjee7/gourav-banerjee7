@@ -1,5 +1,5 @@
 ## Hi there 👋, Welcome to my Github page!
-I'm Gourav currently working at Covrzy as a Full Stack Engineer.<br>I have over 3 years of experience working in various mobile and full stack technologies.<br>Love designing Distributed Systems to solve complex problems
+I'm Gourav currently working at Hireup as a Full Stack Engineer.<br>I have over 3 years of experience working in various mobile and full stack technologies.<br>Love designing Distributed Systems to solve complex problems
 
 
 ## 🌐 Socials:
